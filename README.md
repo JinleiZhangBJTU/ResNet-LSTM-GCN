@@ -1,4 +1,7 @@
-# Keras implement of ResNet+LSTM+GCN (ResLSTM)
+# Keras implementation of ResNet+LSTM+GCN (ResLSTM)
+Keras implementation of ResNet
+Keras implementation of Attention LSTM
+Keras implementation of GCN
 
 ## [Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit](https://arxiv.org/abs/1912.12563)
 
@@ -31,7 +34,7 @@ scikit-learn == 0.20.2
 
 protobuf == 3.6.0
 
-## Implement
+## Implementation
 
 Just download this repository and using PyCharm to open it. Then run ResLSTM.py.
 
