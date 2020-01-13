@@ -3,8 +3,7 @@
 ## [Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit](https://arxiv.org/abs/1912.12563)
 
 <img src="https://github.com/JinleiZhangBJTU/ResNet-LSTM-GCN/blob/master/pictures/Model%20structure.png" width = "722" height = "813" alt="model structure" 
-align=left>
-
+align=center>
 
 ## Description
 
