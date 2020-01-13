@@ -1,4 +1,4 @@
-# ResNet+LSTM+GCN (ResLSTM)
+# Keras implement of ResNet+LSTM+GCN (ResLSTM)
 
 ## [Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit](https://arxiv.org/abs/1912.12563)
 
