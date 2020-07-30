@@ -7,7 +7,7 @@ Keras implementation of Attention LSTM
 Keras implementation of GCN
 
 
-## [Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit](https://arxiv.org/abs/1912.12563)
+## [Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit](10.1109/TITS.2020.3000761)
 
 <img src="https://github.com/JinleiZhangBJTU/ResNet-LSTM-GCN/blob/master/pictures/Model%20structure.png" width = "722" height = "813" alt="model structure" 
 align=center>
@@ -26,17 +26,12 @@ The dimension of meteorology data is n*time steps, where n represents  the 11 me
 
 ## Requirement
 
-Keras == 2.2.4 
-
-tensorflow-gpu == 1.10.0
-
-numpy == 1.14.5
-
-scipy == 1.3.3
-
-scikit-learn == 0.20.2
-
-protobuf == 3.6.0
+Keras == 2.2.4  
+tensorflow-gpu == 1.10.0  
+numpy == 1.14.5  
+scipy == 1.3.3  
+scikit-learn == 0.20.2  
+protobuf == 3.6.0  
 
 ## Implementation
 
@@ -48,4 +43,4 @@ Just download this repository and using PyCharm to open it. Then run ResLSTM.py.
 
 ## Reference
 
-Zhang, Jinlei, Feng Chen, Yadi Zhu, and Yinan Guo. "[Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit.](https://arxiv.org/abs/1912.12563)" arXiv preprint arXiv:1912.12563 (2019).
+J. Zhang, F. Chen, Z. Cui, Y. Guo and Y. Zhu, "[Deep Learning Architecture for Short-Term Passenger Flow Forecasting in Urban Rail Transit](10.1109/TITS.2020.3000761)," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2020.3000761.
