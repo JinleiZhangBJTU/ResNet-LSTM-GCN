@@ -7,7 +7,7 @@ Keras implementation of Attention LSTM
 Keras implementation of GCN
 
 
-## [Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit](10.1109/TITS.2020.3000761)
+## [Deep-learning Architecture for Short-term Passenger Flow Forecasting in Urban Rail Transit](http://doi.org/10.1109/TITS.2020.3000761)
 
 <img src="https://github.com/JinleiZhangBJTU/ResNet-LSTM-GCN/blob/master/pictures/Model%20structure.png" width = "722" height = "813" alt="model structure" 
 align=center>
@@ -43,4 +43,4 @@ Just download this repository and using PyCharm to open it. Then run ResLSTM.py.
 
 ## Reference
 
-J. Zhang, F. Chen, Z. Cui, Y. Guo and Y. Zhu, "[Deep Learning Architecture for Short-Term Passenger Flow Forecasting in Urban Rail Transit](10.1109/TITS.2020.3000761)," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2020.3000761.
+J. Zhang, F. Chen, Z. Cui, Y. Guo and Y. Zhu, "[Deep Learning Architecture for Short-Term Passenger Flow Forecasting in Urban Rail Transit](http://doi.org/10.1109/TITS.2020.3000761)," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2020.3000761.
