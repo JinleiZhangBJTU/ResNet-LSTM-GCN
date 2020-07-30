@@ -1,4 +1,4 @@
-# Keras implementation of ResNet+LSTM+GCN (ResLSTM)
+# ResNet+LSTM+GCN (ResLSTM)
 
 Keras implementation of ResNet
 
